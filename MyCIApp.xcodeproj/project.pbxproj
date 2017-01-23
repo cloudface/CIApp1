@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					EBB1DB601E36590300DD7090 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 6QV5SPTX7S;
 						ProvisioningStyle = Automatic;
 					};
 					EBB1DB741E36590300DD7090 = {
@@ -339,6 +340,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6QV5SPTX7S;
 				INFOPLIST_FILE = MyCIApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.swissprime.MyCIApp;
@@ -351,6 +353,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6QV5SPTX7S;
 				INFOPLIST_FILE = MyCIApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.swissprime.MyCIApp;
